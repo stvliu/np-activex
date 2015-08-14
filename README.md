@@ -4,7 +4,7 @@ What's this
 This project enable ActiveX plug-ins for NPAPI browsers. Especially, for Chrome, some automatic inject scripts are provided to load ActiveX plug-in on webpages without any manual operations for trusted sites.
 
 How to use this
-This project is available at Chrome Web Store. Some settings are required to provide the trusted sites and trusted CLSIDS. These settings are available on the option page.
+This project is available at Chrome Web Store(https://chrome.google.com/webstore/detail/lgllffgicojgllpmdbemgglaponefajn). Some settings are required to provide the trusted sites and trusted CLSIDS. These settings are available on the option page.
 
 For developers, we'll publish documents on how to use it soon.
 
